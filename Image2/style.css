@@ -1,0 +1,45 @@
+
+
+article{
+    background-color: antiquewhite;
+    width: 70%;
+     overflow: hidden; /* The Last two Paragrapahs won't take the bg-color without this property */
+    
+     margin: 100px auto;} /*trick to center container /*
+     
+   
+                             
+
+                          
+section{
+   
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 1px;
+    display: grid;
+    gap: 20px 20px;
+    grid-template-columns: auto auto auto;
+} */
+
+
+.float-div{
+    float: left; 
+    background-color: azure;
+margin: 10px;
+    width: 23.33%; 
+}
+
+
+#p4, #p5 {
+float: left;
+width: 35%;
+
+}
+
+.FloatingArticle{
+    float: left; /* or you can use the clear: both; property*/
+    height: 100px;
+    overflow-y: scroll;
+font-weight: bold;
+}

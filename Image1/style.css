@@ -1,0 +1,16 @@
+/* table{
+    width:  100%;
+} */
+
+div{
+padding: 5px;
+margin: 3px;
+    border: solid 1px;
+    border-radius: 5px;
+    box-shadow: 2px 1px black;
+}
+/* 
+td {
+    padding: 15px;
+border: solid 2px black;
+} */

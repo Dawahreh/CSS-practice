@@ -1,0 +1,50 @@
+div {
+    margin: 50px 50px ;
+}
+
+
+h2, .s1, .s3, .s4 {
+    text-decoration: underline;
+}
+.s1{
+    
+color: rgb(130, 130, 63);
+}
+.s2{
+    color: red;
+    background-color: yellow;
+}
+.s3{
+    
+    color: red;
+    
+}
+
+.s4{
+    
+    color: red;
+    font-weight: lighter;
+}
+li{
+    font-weight: lighter;
+}
+.l1 {
+    color: blue;
+}
+
+#l2 {
+    font-weight: bolder;
+}
+
+a{
+color: default;
+}
+#b {
+    font-weight: bold;
+}
+
+.u1 {
+
+    list-style-type: none
+    ;
+}
