@@ -5,18 +5,12 @@ article{
     width: 70%;
      overflow: hidden; /* The Last two Paragrapahs won't take the bg-color without this property */
     
-     margin: 100px auto; /*trick to center container */
-    
-    border-right: solid  3px;
-    } 
-
-    
-     
+     margin: 100px auto;} /*trick to center container /*
      
    
                              
 
-                          /*
+                          
 section{
    
     padding-top: 1px;
@@ -34,6 +28,8 @@ section{
     background-color: azure;
 margin: 10px;
     width: 23.33%; 
+    overflow: hidden;
+    height: 100px;
 }
 
 
@@ -48,6 +44,4 @@ width: 35%;
     height: 100px;
     overflow-y: scroll;
 font-weight: bold;
-border-top: solid 1px;
-border-bottom: solid 1px;
 }
