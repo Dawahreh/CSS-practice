@@ -1,9 +1,12 @@
 
+*{padding: 0;
+margin: 0;}
+
 
 article{
     background-color: antiquewhite;
     width: 70%;
-     overflow: hidden; /* The Last two Paragrapahs won't take the bg-color without this property */
+      overflow: hidden; The Last two Paragrapahs won't take the bg-color without this property */
     
      margin: 100px auto; /*trick to center container */
     
@@ -35,6 +38,7 @@ margin: 10px;
     width: 23.33%; 
     overflow: hidden;
     height: 100px;
+    
 }
 
 
