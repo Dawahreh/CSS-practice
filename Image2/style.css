@@ -5,12 +5,18 @@ article{
     width: 70%;
      overflow: hidden; /* The Last two Paragrapahs won't take the bg-color without this property */
     
-     margin: 100px auto;} /*trick to center container /*
+     margin: 100px auto; /*trick to center container */
+    
+    border-right: solid  3px;
+    } 
+
+    
+     
      
    
                              
 
-                          
+                          /*
 section{
    
     padding-top: 1px;
@@ -42,4 +48,6 @@ width: 35%;
     height: 100px;
     overflow-y: scroll;
 font-weight: bold;
+border-top: solid 1px;
+border-bottom: solid 1px;
 }
