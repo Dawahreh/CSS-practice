@@ -1,0 +1,42 @@
+
+li {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: solid 1px;
+}
+
+
+.first li:nth-child(even){
+background-color: green;
+display:inline-block;
+position: relative;
+top: 25px;
+}
+
+.first li:nth-child(odd){
+display: inline-block;
+background-color: yellow;
+display:inline-block;
+
+}
+
+.ex2{
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+}
+
+.ex5 li{
+    display: inline-block;
+    background-color: red;
+    width: 70px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.ex5 li:nth-child(even){
+display: none;
+}
+
